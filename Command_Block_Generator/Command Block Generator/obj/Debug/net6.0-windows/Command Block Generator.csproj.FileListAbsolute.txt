@@ -1,0 +1,63 @@
+C:\Users\roman\source\repos\Command Block Generator\bin\Debug\net6.0-windows\Command Block Generator.exe
+C:\Users\roman\source\repos\Command Block Generator\bin\Debug\net6.0-windows\Command Block Generator.deps.json
+C:\Users\roman\source\repos\Command Block Generator\bin\Debug\net6.0-windows\Command Block Generator.runtimeconfig.json
+C:\Users\roman\source\repos\Command Block Generator\bin\Debug\net6.0-windows\Command Block Generator.dll
+C:\Users\roman\source\repos\Command Block Generator\bin\Debug\net6.0-windows\Command Block Generator.pdb
+C:\Users\roman\source\repos\Command Block Generator\obj\Debug\net6.0-windows\Command Block Generator.csproj.AssemblyReference.cache
+C:\Users\roman\source\repos\Command Block Generator\obj\Debug\net6.0-windows\Command_Block_Generator.Form1.resources
+C:\Users\roman\source\repos\Command Block Generator\obj\Debug\net6.0-windows\Command Block Generator.csproj.GenerateResource.cache
+C:\Users\roman\source\repos\Command Block Generator\obj\Debug\net6.0-windows\Command Block Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roman\source\repos\Command Block Generator\obj\Debug\net6.0-windows\Command Block Generator.AssemblyInfoInputs.cache
+C:\Users\roman\source\repos\Command Block Generator\obj\Debug\net6.0-windows\Command Block Generator.AssemblyInfo.cs
+C:\Users\roman\source\repos\Command Block Generator\obj\Debug\net6.0-windows\Command Block Generator.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\Command Block Generator\obj\Debug\net6.0-windows\Command Block Generator.dll
+C:\Users\roman\source\repos\Command Block Generator\obj\Debug\net6.0-windows\refint\Command Block Generator.dll
+C:\Users\roman\source\repos\Command Block Generator\obj\Debug\net6.0-windows\Command Block Generator.pdb
+C:\Users\roman\source\repos\Command Block Generator\obj\Debug\net6.0-windows\Command Block Generator.genruntimeconfig.cache
+C:\Users\roman\source\repos\Command Block Generator\obj\Debug\net6.0-windows\ref\Command Block Generator.dll
+C:\Users\avlar\Desktop\Command Block Generator\bin\Debug\net6.0-windows\Command Block Generator.exe
+C:\Users\avlar\Desktop\Command Block Generator\bin\Debug\net6.0-windows\Command Block Generator.deps.json
+C:\Users\avlar\Desktop\Command Block Generator\bin\Debug\net6.0-windows\Command Block Generator.runtimeconfig.json
+C:\Users\avlar\Desktop\Command Block Generator\bin\Debug\net6.0-windows\Command Block Generator.dll
+C:\Users\avlar\Desktop\Command Block Generator\bin\Debug\net6.0-windows\Command Block Generator.pdb
+C:\Users\avlar\Desktop\Command Block Generator\obj\Debug\net6.0-windows\Command Block Generator.csproj.GenerateResource.cache
+C:\Users\avlar\Desktop\Command Block Generator\obj\Debug\net6.0-windows\Command Block Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avlar\Desktop\Command Block Generator\obj\Debug\net6.0-windows\Command Block Generator.AssemblyInfoInputs.cache
+C:\Users\avlar\Desktop\Command Block Generator\obj\Debug\net6.0-windows\Command Block Generator.AssemblyInfo.cs
+C:\Users\avlar\Desktop\Command Block Generator\obj\Debug\net6.0-windows\Command Block Generator.csproj.CoreCompileInputs.cache
+C:\Users\avlar\Desktop\Command Block Generator\obj\Debug\net6.0-windows\Command Block Generator.dll
+C:\Users\avlar\Desktop\Command Block Generator\obj\Debug\net6.0-windows\refint\Command Block Generator.dll
+C:\Users\avlar\Desktop\Command Block Generator\obj\Debug\net6.0-windows\Command Block Generator.pdb
+C:\Users\avlar\Desktop\Command Block Generator\obj\Debug\net6.0-windows\Command Block Generator.genruntimeconfig.cache
+C:\Users\avlar\Desktop\Command Block Generator\obj\Debug\net6.0-windows\ref\Command Block Generator.dll
+C:\Users\avlar\Desktop\Command Block Generator\obj\Debug\net6.0-windows\Interop.SystemMonitor.dll
+C:\Users\avlar\Desktop\Command Block Generator\obj\Debug\net6.0-windows\Command Block Generator.csproj.ResolveComReference.cache
+C:\Users\avlar\Desktop\Command Block Generator\obj\Debug\net6.0-windows\Command_Block_Generator.Properties.Resources.resources
+C:\Users\avlar\Desktop\Command Block Generator\bin\Debug\net6.0-windows\Content\Files\blocks.txt
+C:\Users\avlar\Desktop\Command Block Generator\bin\Debug\net6.0-windows\Content\Files\items.txt
+C:\Users\avlar\Desktop\Command Block Generator\obj\Debug\net6.0-windows\Command_Block_Generator.UI.Forms.MainForm.resources
+C:\Users\avlar\Desktop\Command Block Generator\obj\Debug\net6.0-windows\Command_Block_Generator.UI.Forms.OneCommandGeneratorForm.resources
+C:\Users\avlar\Desktop\Command Block Generator\obj\Debug\net6.0-windows\Command_Block_Generator.UI.Forms.PotionGeneratorForm.resources
+C:\Users\avlar\Desktop\Files\Programming\C#\Projects\Command Block Generator\bin\Debug\net6.0-windows\Command Block Generator.exe
+C:\Users\avlar\Desktop\Files\Programming\C#\Projects\Command Block Generator\bin\Debug\net6.0-windows\Content\Files\blocks.txt
+C:\Users\avlar\Desktop\Files\Programming\C#\Projects\Command Block Generator\bin\Debug\net6.0-windows\Content\Files\items.txt
+C:\Users\avlar\Desktop\Files\Programming\C#\Projects\Command Block Generator\bin\Debug\net6.0-windows\Command Block Generator.deps.json
+C:\Users\avlar\Desktop\Files\Programming\C#\Projects\Command Block Generator\bin\Debug\net6.0-windows\Command Block Generator.runtimeconfig.json
+C:\Users\avlar\Desktop\Files\Programming\C#\Projects\Command Block Generator\bin\Debug\net6.0-windows\Command Block Generator.dll
+C:\Users\avlar\Desktop\Files\Programming\C#\Projects\Command Block Generator\bin\Debug\net6.0-windows\Command Block Generator.pdb
+C:\Users\avlar\Desktop\Files\Programming\C#\Projects\Command Block Generator\obj\Debug\net6.0-windows\Interop.SystemMonitor.dll
+C:\Users\avlar\Desktop\Files\Programming\C#\Projects\Command Block Generator\obj\Debug\net6.0-windows\Command Block Generator.csproj.ResolveComReference.cache
+C:\Users\avlar\Desktop\Files\Programming\C#\Projects\Command Block Generator\obj\Debug\net6.0-windows\Command_Block_Generator.Properties.Resources.resources
+C:\Users\avlar\Desktop\Files\Programming\C#\Projects\Command Block Generator\obj\Debug\net6.0-windows\Command_Block_Generator.UI.Forms.MainForm.resources
+C:\Users\avlar\Desktop\Files\Programming\C#\Projects\Command Block Generator\obj\Debug\net6.0-windows\Command_Block_Generator.UI.Forms.OneCommandGeneratorForm.resources
+C:\Users\avlar\Desktop\Files\Programming\C#\Projects\Command Block Generator\obj\Debug\net6.0-windows\Command_Block_Generator.UI.Forms.PotionGeneratorForm.resources
+C:\Users\avlar\Desktop\Files\Programming\C#\Projects\Command Block Generator\obj\Debug\net6.0-windows\Command Block Generator.csproj.GenerateResource.cache
+C:\Users\avlar\Desktop\Files\Programming\C#\Projects\Command Block Generator\obj\Debug\net6.0-windows\Command Block Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avlar\Desktop\Files\Programming\C#\Projects\Command Block Generator\obj\Debug\net6.0-windows\Command Block Generator.AssemblyInfoInputs.cache
+C:\Users\avlar\Desktop\Files\Programming\C#\Projects\Command Block Generator\obj\Debug\net6.0-windows\Command Block Generator.AssemblyInfo.cs
+C:\Users\avlar\Desktop\Files\Programming\C#\Projects\Command Block Generator\obj\Debug\net6.0-windows\Command Block Generator.csproj.CoreCompileInputs.cache
+C:\Users\avlar\Desktop\Files\Programming\C#\Projects\Command Block Generator\obj\Debug\net6.0-windows\Command Block Generator.dll
+C:\Users\avlar\Desktop\Files\Programming\C#\Projects\Command Block Generator\obj\Debug\net6.0-windows\refint\Command Block Generator.dll
+C:\Users\avlar\Desktop\Files\Programming\C#\Projects\Command Block Generator\obj\Debug\net6.0-windows\Command Block Generator.pdb
+C:\Users\avlar\Desktop\Files\Programming\C#\Projects\Command Block Generator\obj\Debug\net6.0-windows\Command Block Generator.genruntimeconfig.cache
+C:\Users\avlar\Desktop\Files\Programming\C#\Projects\Command Block Generator\obj\Debug\net6.0-windows\ref\Command Block Generator.dll
